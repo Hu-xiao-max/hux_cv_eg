@@ -1,3 +1,3 @@
 # hux.github.io
 CV
-https://hu-xiao-max.github.io/hux.github.io/
+https://hu-xiao-max.github.io/hux_cv_eg/
